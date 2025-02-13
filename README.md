@@ -108,7 +108,7 @@ Only perform this if this is the first time you will setup your Git Environment
       - Create a file named `SwitchStatementDemo.java`.
       - Define the class `SwitchStatementDemo` and its `main` method.
       ```Java
-      public class BooleanExpressionsDemo {
+      public class SwitchStatementDemo {
           public static void main(String[] args) {
       
           }
