@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run the Java program and capture the output
-output=$(java CircleCalculator.java < tests/input.txt)
+output=$(java SwitchStatementDemo.java < tests/input.txt)
 
 # Expected output
 expected=$(cat tests/output.txt)
