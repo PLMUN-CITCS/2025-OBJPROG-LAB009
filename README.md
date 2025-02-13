@@ -84,7 +84,7 @@ Only perform this if this is the first time you will setup your Git Environment
    - Compare switch-case with if-else for specific scenarios.
 
    **File Naming Convention:**
-   - `BooleanExpressionsDemo.java`
+   - `SwitchStatementDemo.java`
 
    **Desired Output (with day = 4 and grade = 'B'):**
    ```txt
