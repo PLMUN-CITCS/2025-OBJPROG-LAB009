@@ -80,8 +80,8 @@ Only perform this if this is the first time you will setup your Git Environment
 **Laboratory # 09 - Guided Coding Exercise 3: Switch Statement**
 
    **Objective:**
-   - Understand boolean literals, variables, and expressions.
-   - Use relational operators (==, !=, >, <, >=, <=) and logical operators (&&, ||, !, ^).
+   - Learn to implement multi-conditional selection using switch statements.
+   - Compare switch-case with if-else for specific scenarios.
 
    **File Naming Convention:**
    - `BooleanExpressionsDemo.java`
